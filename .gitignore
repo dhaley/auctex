@@ -32,3 +32,4 @@
 /preview/preview-latex.el
 /tex-site.el
 /tex-site.el.out
+*.elc
